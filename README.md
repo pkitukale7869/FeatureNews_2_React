@@ -1,3 +1,7 @@
+#Refer the below link for the NEws API
+https://newsapi.org/docs/get-started
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
